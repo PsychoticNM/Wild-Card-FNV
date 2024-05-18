@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Wild Card FNV",
+        "description": "Wild Card is work in progress project focused on making Fallout New Vegas feel like later fallout titles. At over 800 mods brings in new game play mechanics, textures, visuals and much more all the while maintaining good stability.",
+        "author": "Psychotic Monk",
+        "maintainers": [
+            "github/PsychoticNM"
+        ],
+        "game": "falloutnewvegas",
+        "official": false,
+        "tags": [
+            "Stability",
+            "Hardcore",
+            "Casual",
+            "Customizability",
+            "Gameplay",
+            "Lore-Friendly"
+        ],
+        "nsfw": false,
+        "utility_list": false,
+        "image_contains_title": true,
+        "DisplayVersionOnlyInInstallerView": false,
+        "force_down": false,
+        "links": {
+            "image": "https://raw.githubusercontent.com/PsychoticNM/WILD-CARD-FNV-GUIDE/main/TTW.png",
+            "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
+            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_0894617f-11fe-4834-9a16-46a809c711ab",
+            "machineURL": "WildCardFNV",
+            "discordURL": "https://discord.gg/W3pKDEhMhg"
+        },
+        "download_metadata": {
+            "Hash": "/3ELYtx9Krk=",
+            "Size": 227118121,
+            "NumberOfArchives": 794,
+            "SizeOfArchives": 21357345996,
+            "NumberOfInstalledFiles": 86822,
+            "SizeOfInstalledFiles": 50048721218
+        },
+        "version": "3.6",
+        "dateCreated": "2024-05-10T00:00:00Z",
+        "dateUpdated": "2024-05-18T03:08:55.1601681Z",
+        "repositoryName": ""
+    }
+]
