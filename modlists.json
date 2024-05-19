@@ -22,19 +22,19 @@
         "DisplayVersionOnlyInInstallerView": false,
         "force_down": false,
         "links": {
-            "image": "https://raw.githubusercontent.com/PsychoticNM/WILD-CARD-FNV-GUIDE/main/TTW.png",
+            "image": "https://raw.githubusercontent.com/PsychoticNM/Wild-Card-FNV/main/TTW.png",
             "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
-            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_0894617f-11fe-4834-9a16-46a809c711ab",
+            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_139625d1-a0da-41c8-a45e-65a17e2c9468",
             "machineURL": "WildCardFNV",
             "discordURL": "https://discord.gg/W3pKDEhMhg"
         },
         "download_metadata": {
-            "Hash": "/3ELYtx9Krk=",
-            "Size": 227118121,
-            "NumberOfArchives": 794,
-            "SizeOfArchives": 21357345996,
+            "Hash": "FRMdrhNF0b8=",
+            "Size": 227119430,
+            "NumberOfArchives": 793,
+            "SizeOfArchives": 21357343848,
             "NumberOfInstalledFiles": 86822,
-            "SizeOfInstalledFiles": 50048721218
+            "SizeOfInstalledFiles": 50048782810
         },
         "version": "3.6",
         "dateCreated": "2024-05-10T00:00:00Z",
