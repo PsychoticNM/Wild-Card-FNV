@@ -1,2 +1,2 @@
 # Wild-Card-FNV
-My wabbajack file
+My FNV modlist
