@@ -24,21 +24,21 @@
         "links": {
             "image": "https://raw.githubusercontent.com/PsychoticNM/Wild-Card-FNV/main/FNV.png",
             "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
-            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_139625d1-a0da-41c8-a45e-65a17e2c9468",
+            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_ad7ad18c-28dd-4504-857c-be7733307e6e",
             "machineURL": "WildCardFNV",
             "discordURL": "https://discord.gg/W3pKDEhMhg"
         },
         "download_metadata": {
-            "Hash": "FRMdrhNF0b8=",
-            "Size": 227119430,
-            "NumberOfArchives": 793,
-            "SizeOfArchives": 21357343848,
-            "NumberOfInstalledFiles": 86822,
-            "SizeOfInstalledFiles": 50048782810
+            "Hash": "RZ00Lg6M2Vw=",
+            "Size": 229721527,
+            "NumberOfArchives": 791,
+            "SizeOfArchives": 20576912711,
+            "NumberOfInstalledFiles": 86764,
+            "SizeOfInstalledFiles": 47335010419
         },
-        "version": "3.8",
+        "version": "5.0",
         "dateCreated": "2024-05-10T00:00:00Z",
-        "dateUpdated": "2024-05-18T03:08:55.1601681Z",
+        "dateUpdated": "2024-05-27T03:08:55.1601681Z",
         "repositoryName": ""
     }
 ]
