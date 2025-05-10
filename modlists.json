@@ -1,7 +1,7 @@
 [
     {
-        "title": "Wild Card FNV",
-        "description": "Wild Card FNV is work in progress project focused on making Fallout New Vegas feel like later fallout titles. At over 800 mods brings in new game play mechanics, textures, visuals and much more all the while maintaining good stability.",
+        "title": "FNV Wild Card",
+        "description": "Wild Card is a highly customizable modlist for Fallout, featuring over 1,250 mods. It offers multiple profiles, including Dust, Vanilla Plus, Wild Card, Classic Mode and a Modern Mode, tailored to different player preferences. The mods enhance gameplay mechanics, improve visuals, and overhauled locations.",
         "author": "Psychotic Monk",
         "maintainers": [
             "github/PsychoticNM"
@@ -24,21 +24,21 @@
         "links": {
             "image": "https://raw.githubusercontent.com/PsychoticNM/Wild-Card-FNV/main/FNV.png",
             "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
-            "download": "https://authored-files.wabbajack.org/Wild Card FNV.wabbajack_ad7ad18c-28dd-4504-857c-be7733307e6e",
-            "machineURL": "WildCardFNV",
+            "download": "https://authored-files.wabbajack.org/FNV Wild Card.wabbajack_a8bdb601-f3b0-47ef-a04a-e0d22cf49215",
+            "machineURL": "FNV WildCard",
             "discordURL": "https://discord.gg/W3pKDEhMhg"
         },
         "download_metadata": {
-            "Hash": "RZ00Lg6M2Vw=",
-            "Size": 229721527,
-            "NumberOfArchives": 791,
-            "SizeOfArchives": 20576912711,
-            "NumberOfInstalledFiles": 86764,
-            "SizeOfInstalledFiles": 47335010419
+            "Hash": "eLnjJcOQlbM=",
+            "Size": 233420510,
+            "NumberOfArchives": 1038,
+            "SizeOfArchives": 34136228178,
+            "NumberOfInstalledFiles": 90353,
+            "SizeOfInstalledFiles": 54945946091
         },
-        "version": "5.0",
+        "version": "5.5",
         "dateCreated": "2024-05-10T00:00:00Z",
-        "dateUpdated": "2024-05-27T03:08:55.1601681Z",
+        "dateUpdated": "2025-05-10T03:08:55.1601681Z",
         "repositoryName": ""
     }
 ]
